@@ -90,6 +90,7 @@ _SS8_
 `root_directory/gravity_falls`
 
     /gravity_subdir
+    /gravity_subdir/intro.txt
     /gravity_subdir/so-good.webp
     /gravity_subdir2
 
